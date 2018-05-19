@@ -20,6 +20,7 @@ nav a:hover{
   padding: 23px 0 0 0;
   margin: 0 auto;
   border-bottom: none;
+  width:300px;
 }
 .navLi{
   text-align: center;

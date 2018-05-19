@@ -7,7 +7,6 @@ const SessionWrapper = () => (
   <div className="SessionWrapper">
     <h2>Sessions</h2>
     <SessionListing />
-    <ViewAllBtn />
   </div>
 );
 export default SessionWrapper;

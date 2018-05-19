@@ -7,7 +7,7 @@ const Profile = () => (
     <div className="notifications"></div>
     <div className="userPic">
       <img src="https://randomuser.me/api/portraits/women/7.jpg" />
-      <h2>Sample User</h2>
+      <h2>User Userton</h2>
     </div>
     <div className="userInfo">
       <div className="userProgress">

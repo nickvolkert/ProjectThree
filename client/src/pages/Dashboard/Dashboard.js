@@ -5,6 +5,7 @@ import CheckIn from "../../components/CheckIn";
 import HomeworkWrapper from "../../components/HomeworkWrapper";
 import SessionWrapper from "../../components/SessionWrapper";
 import ProfileWrapper from "../../components/ProfileWrapper";
+import ViewAllBtn from "../../components/ViewAllBtn";
 
 class Dashboard extends Component {
   // Setting our component's initial state
@@ -24,7 +25,9 @@ class Dashboard extends Component {
             <SchoolInfo />
             <CheckIn />
             <HomeworkWrapper />
+            <ViewAllBtn />
             <SessionWrapper />
+            <ViewAllBtn />
           </div>
         </Row>
       </Container>
